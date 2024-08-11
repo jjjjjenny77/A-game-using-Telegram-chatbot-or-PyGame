@@ -36,6 +36,7 @@
     - 除了砲/炮以外的其他棋，只能剋除(吃)鄰邊格（一格差）
     - 砲/炮只能在縱或橫向有一個且唯一個棋子時才能剋除(吃)
 ![image](https://github.com/jjjjjenny77/images/blob/main/%E6%9A%97%E6%A3%8B.png)
+
 （圖一）綠色代表可吃子/移動，紅色代表不可吃子/移動
 ## Watch my demo video below!
-https://www.youtube.com/watch?v=MepVbut_TIY
+https://youtu.be/rItKAJCIUYs?si=kAbyi7Daa74A37QF
