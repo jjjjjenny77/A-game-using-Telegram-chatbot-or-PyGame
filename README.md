@@ -1,5 +1,5 @@
 # A-game-using-Telegram-chatbot-or-PyGame
-> This note record and share the midterm project of python course about using pyautohui and opencv to create a game agent
+> This note record and share the final project of python course about using Telegram chatbot or PyGame to play Hidden Chess
 ## How to run the code
 * First, you have to apply for a bot from [@BotFather]:https://web.telegram.org/k/#@BotFather
   - Enter /newbot in the dialog box
