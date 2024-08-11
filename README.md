@@ -6,6 +6,9 @@
   - Enter the name of your bot
   - Enter the account number of your bot(must end with"bot")
   - Then you will get your Bot ID and the TOKEN of API
+* Download the files code and TOKEN
+* Type your token in the TOKEN file
+* Run the code and open your telegram bot to plat the game!
 ## (暗棋)Game rules:
 * 棋盤為 4*8 方格
 * 在最一開始，棋子反面朝上隨機布置於棋格。反面朝上的棋子稱為暗棋，正面朝上稱為明棋
